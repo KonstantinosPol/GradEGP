@@ -9,11 +9,11 @@
 
 Examples: 
 
-A. For the Network Delay dataset the results for 50 MC runs can be obtained running EGP_res("network delay", 50)
+A. For the Network Delay dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("network delay", 50)
 
-B. For the Temperature dataset the results for 50 MC runs can be obtained running EGP_res("temperature", 50)
+B. For the Temperature dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("temperature", 50)
 
-C. For the Email Eu dataset the results for 50 MC runs can be obtained running EGP_res("email eu", 50)
+C. For the Email Eu dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("email eu", 50)
 
 
 
