@@ -14,5 +14,5 @@ Example: For the Network Delay dataset the results for 50 MC runs can be obtaine
 Please don't forget to cite the papers:
 
 1. K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Ensemble Gaussian processes for online learning over graphs with adaptivity and scalability," IEEE Transactions on Signal Processing, submitted April 2021.
-2. K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Ensemble Gaussian Processes over Egonet Features for Online Graph-Guided Learning," Proc. of Asilomar Conf. on Signals, Systems, and Computers, Pacific Grove, CA, Oct. 31-Nov. 3, 2021.
+2. K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Graph-Adaptive Incremental Learning Using an Ensemble of Gaussian Process Experts," Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing, Toronto, Canada, June 6-11, 2021.
 3. Q. Lu, G. V. Karanikolas, Y. Shen, and G. B. Giannakis, "Ensemble Gaussian Processes with Spectral Features for Online Interactive Learning with Scalability," Proc. of 23rd Intl. Conf. on Artificial Intelligence and Statistics, Palermo, Italy, June 3-5, 2020.
