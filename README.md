@@ -22,6 +22,6 @@ C. For the Email Eu dataset the results for 50 MC runs can be obtained running [
 
 Please don't forget to cite the papers:
 
-  K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Ensemble Gaussian processes for online learning over graphs with adaptivity and scalability," IEEE Transactions on Signal Processing. 
-  K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Graph-Adaptive Incremental Learning Using an Ensemble of Gaussian Process Experts," Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing, Toronto, Canada, June 6-11, 2021.
-  Q. Lu, G. V. Karanikolas, Y. Shen, and G. B. Giannakis, "Ensemble Gaussian Processes with Spectral Features for Online Interactive Learning with Scalability," Proc. of 23rd Intl. Conf. on Artificial Intelligence and Statistics, Palermo, Italy, June 3-5, 2020.
+1. K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Ensemble Gaussian processes for online learning over graphs with adaptivity and scalability," IEEE Transactions on Signal Processing. 
+2. K. D. Polyzos, Q. Lu, and G. B. Giannakis, "Graph-Adaptive Incremental Learning Using an Ensemble of Gaussian Process Experts," Proc. of Intl. Conf. on Acoustics, Speech, and Signal Processing, Toronto, Canada, June 6-11, 2021.
+3. Q. Lu, G. V. Karanikolas, Y. Shen, and G. B. Giannakis, "Ensemble Gaussian Processes with Spectral Features for Online Interactive Learning with Scalability," Proc. of 23rd Intl. Conf. on Artificial Intelligence and Statistics, Palermo, Italy, June 3-5, 2020.
