@@ -2,18 +2,22 @@
 
 ### Description
 
-1. The main file for one Monte-Carlo (MC) run is main_EGP_run.m
-2. For a given dataset and number of MC runs, one can run  EGP_res.m to obtain GradEGP results for MC runs
-3. The "network delay", "temperature" and "email eu" datasets can be found at  NetDelayFeat.mat, Tempfeatdata.mat and emailEuData.mat respectively.
-4. The chosen hyperparameters in the param files for each dataset can be obtained via grid search or Python sklearn.gaussian_process.GaussianProcessRegressor package, using a subset of the data (e.g 20%)  
+A. The main file for one Monte-Carlo (MC) run is main_EGP_run.m
+
+B. For a given dataset and number of MC runs, one can run  EGP_res.m to obtain GradEGP results for MC runs
+
+C. The "network delay", "temperature" and "email eu" datasets can be found at  NetDelayFeat.mat, Tempfeatdata.mat and emailEuData.mat respectively.
+
+D. The chosen hyperparameters in the param files for each dataset can be obtained via grid search or Python sklearn.gaussian_process.GaussianProcessRegressor package, using a subset of the data (e.g 20%)  
 
 ### How to run
 
-A. For the Network Delay dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("network delay", 50)
-
-B. For the Temperature dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("temperature", 50)
-
-C. For the Email Eu dataset the results for 50 MC runs can be obtained running [egp_vec, time_tot_egp] =EGP_res("email eu", 50)
+1. For the Network Delay dataset the results for 50 MC runs can be obtained running in Matlab command window: 
+  [egp_vec, time_tot_egp] =EGP_res("network delay", 50)  
+3. For the Temperature dataset the results for 50 MC runs can be obtained running in Matlab command window:
+   [egp_vec, time_tot_egp] =EGP_res("temperature", 50)
+5. For the Email Eu dataset the results for 50 MC runs can be obtained running in Matlab command window: 
+   [egp_vec, time_tot_egp] =EGP_res("email eu", 50)
 
 
 
