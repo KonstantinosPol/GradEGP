@@ -1,5 +1,6 @@
 # GRaph-ADaptive Ensemble Gaussian Processes (GradEGP)
 
+
 ### Description
 
 A. The main file for one Monte-Carlo (MC) run is main_EGP_run.m
@@ -13,11 +14,17 @@ D. The chosen hyperparameters in the param files for each dataset can be obtaine
 ### How to run
 
 1. For the Network Delay dataset the results for 50 MC runs can be obtained running in Matlab command window: 
+ '''
   [egp_vec, time_tot_egp] =EGP_res("network delay", 50)  
-3. For the Temperature dataset the results for 50 MC runs can be obtained running in Matlab command window:
+ '''
+2. For the Temperature dataset the results for 50 MC runs can be obtained running in Matlab command window:
+ '''
    [egp_vec, time_tot_egp] =EGP_res("temperature", 50)
-5. For the Email Eu dataset the results for 50 MC runs can be obtained running in Matlab command window: 
+ '''
+3. For the Email Eu dataset the results for 50 MC runs can be obtained running in Matlab command window: 
+ '''
    [egp_vec, time_tot_egp] =EGP_res("email eu", 50)
+ '''
 
 
 
